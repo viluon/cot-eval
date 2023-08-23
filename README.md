@@ -1,13 +1,6 @@
 TODO
 ----
 
-- e-mail Andrew Hirsch
-- shipmonk bs
-
-11 Sept 2023
-rational animations
-AI risk explanations: Robert Miles YT
-
 - CoT from one LLM into another, ask the second one for the answer
 - patterns that the LLM recognizes, lead with a sequence of emoji
 - re.
